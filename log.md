@@ -17,3 +17,11 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress**: I started re-learning JavaScript from Scratch
 
 **Thoughts**: I'm very excited to start this challenge, as well as starting to brush up on JavaScript.
+
+### Day 0: September 14, 2020
+
+**Today's Progress**: I builded a little Weather App with JavaScript and Tailwind CSS
+
+**Thoughts**: I'm very happy to finish my first project after the challenge and I still love all the things I can do with Tailwind CSS. I'm not good at thinking nice designs but with Tailwind CSS I can do things that look decently good.
+
+**Link(s) to work:** [Weather App](https://codepen.io/angel-codes/pen/PoNaXJO) 
