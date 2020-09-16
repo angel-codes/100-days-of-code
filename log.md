@@ -14,24 +14,31 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 ### Day 0: September 14, 2020
 
-**Today's Progress**: I started re-learning JavaScript from Scratch
+**Today's Progress:** I started re-learning JavaScript from Scratch
 
-**Thoughts**: I'm very excited to start this challenge, as well as starting to brush up on JavaScript.
+**Thoughts:** I'm very excited to start this challenge, as well as starting to brush up on JavaScript.
 
 ### Day 0: September 14, 2020
 
-**Today's Progress**: I builded a little Weather App with JavaScript and Tailwind CSS
+**Today's Progress:** I builded a little Weather App with JavaScript and Tailwind CSS
 
-**Thoughts**: I'm very happy to finish my first project after the challenge and I still love all the things I can do with Tailwind CSS. I'm not good at thinking nice designs but with Tailwind CSS I can do things that look decently good.
+**Thoughts:** I'm very happy to finish my first project after the challenge and I still love all the things I can do with Tailwind CSS. I'm not good at thinking nice designs but with Tailwind CSS I can do things that look decently good.
 
 **Link(s) to work:** [Weather App](https://codepen.io/angel-codes/pen/PoNaXJO) 
 
 ### Day 1: September 15, 2020
 
-**Today's Progress**: I builded the template for my Password Generator App using Tailwind CSS.
+**Today's Progress:** I builded the template for my Password Generator App using Tailwind CSS.
 
-**Thoughts**: I still have problems thinking about the desing of my apps or projects.
+**Thoughts:** I still have problems thinking about the desing of my apps or projects.
 
 **Link(s) to work:** [Password Generator App](https://codepen.io/angel-codes/pen/dyMVPJb)
 
 
+### Day 2: September 16, 2020
+
+**Today's Progress:** I finished the logic of my Password Generator App.
+
+**Thoughts:** When I saw the project the first time I don't really understand how to do or how works, but now, is done.
+
+**Link(s) to work:** [Password Generator App](https://codepen.io/angel-codes/pen/dyMVPJb)
