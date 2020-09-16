@@ -25,3 +25,13 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Thoughts**: I'm very happy to finish my first project after the challenge and I still love all the things I can do with Tailwind CSS. I'm not good at thinking nice designs but with Tailwind CSS I can do things that look decently good.
 
 **Link(s) to work:** [Weather App](https://codepen.io/angel-codes/pen/PoNaXJO) 
+
+### Day 1: September 15, 2020
+
+**Today's Progress**: I builded the template for my Password Generator App using Tailwind CSS.
+
+**Thoughts**: I still have problems thinking about the desing of my apps or projects.
+
+**Link(s) to work:** [Password Generator App](https://codepen.io/angel-codes/pen/dyMVPJb)
+
+
