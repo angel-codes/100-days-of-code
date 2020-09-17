@@ -42,3 +42,13 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Thoughts:** When I saw the project the first time I don't really understand how to do or how works, but now, is done.
 
 **Link(s) to work:** [Password Generator App](https://codepen.io/angel-codes/pen/dyMVPJb)
+
+### Day 3: Septembre 17, 2020
+
+**Today's Progress:** I finished the landing page of the "Bienes Raices" project only using Tailwind CSS
+
+**Thoughts:** I really love Tailwind CSS.
+
+**Link(s) to work:** 
+- [Bienes Raices Site](https://bienes-raices-site-template.netlify.app/)
+- [Bienes Raices Code](https://github.com/angel-codes/bienes-raices-template)
