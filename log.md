@@ -43,7 +43,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Link(s) to work:** [Password Generator App](https://codepen.io/angel-codes/pen/dyMVPJb)
 
-### Day 3: Septembre 17, 2020
+### Day 3: September 17, 2020
 
 **Today's Progress:** I finished the landing page of the "Bienes Raices" project only using Tailwind CSS
 
@@ -52,3 +52,9 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Link(s) to work:** 
 - [Bienes Raices Site](https://bienes-raices-site-template.netlify.app/)
 - [Bienes Raices Code](https://github.com/angel-codes/bienes-raices-template)
+
+### Day: September 17, 2020
+
+**Today's Progress:** I finished the desktop website of the Insure Landing Page, challenge of @frontendmentor.
+
+**Link(s) to work:** [Insure Landing Page](https://github.com/angel-codes/insure-landing-page)
