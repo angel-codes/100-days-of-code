@@ -53,8 +53,16 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 - [Bienes Raices Site](https://bienes-raices-site-template.netlify.app/)
 - [Bienes Raices Code](https://github.com/angel-codes/bienes-raices-template)
 
-### Day: September 17, 2020
+### Day 3: September 17, 2020
 
 **Today's Progress:** I finished the desktop website of the Insure Landing Page, challenge of @frontendmentor.
 
 **Link(s) to work:** [Insure Landing Page](https://github.com/angel-codes/insure-landing-page)
+
+### Day 4: September 18, 2020
+
+**Today's Progress:** I finished the "Insure landing page" challenge of @fronendmentor using Tailwind CSS and JavaScript.
+
+**Link(s) to work:**
+- [Insure Landing Page Site](https://insure-landing-page-rust.vercel.app/)
+- [Insure Landing Page Code](https://github.com/angel-codes/insure-landing-page)
