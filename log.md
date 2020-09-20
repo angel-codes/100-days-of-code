@@ -61,8 +61,24 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 ### Day 4: September 18, 2020
 
-**Today's Progress:** I finished the "Insure landing page" challenge of @fronendmentor using Tailwind CSS and JavaScript.
+**Today's Progress:** I finished the "Insure landing page" challenge of @frontendmentor using Tailwind CSS and JavaScript.
 
 **Link(s) to work:**
 - [Insure Landing Page Site](https://insure-landing-page-rust.vercel.app/)
 - [Insure Landing Page Code](https://github.com/angel-codes/insure-landing-page)
+
+### Day 5: September 19, 2020
+
+**Today's Progress:** I made my first contribution to an open source project
+
+**Thoughts:** I am very excited to start helping with more projects
+
+**Link(s) to work:** [First Contribution in a Open Source Project](https://github.com/firstcontributions/first-contributions/pull/30839)
+
+### Day 5: September 19, 2020
+
+**Today's Progress:** I finished the "Single Price Grid Component" challenge of @frontendmentor using Tailwind CSS.
+
+**Link(s) to work:**
+- [Single Price Grid Component Site](https://single-price-grid-component-fr.vercel.app/)
+- [Single Price Grid Component Code](https://github.com/angel-codes/single-price-grid-component)
