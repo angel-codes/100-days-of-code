@@ -82,3 +82,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Link(s) to work:**
 - [Single Price Grid Component Site](https://single-price-grid-component-fr.vercel.app/)
 - [Single Price Grid Component Code](https://github.com/angel-codes/single-price-grid-component)
+
+### Day 6: September 20, 2020
+
+**Today's Progress:** I start creating my own VSCode theme.
