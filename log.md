@@ -86,3 +86,15 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 ### Day 6: September 20, 2020
 
 **Today's Progress:** I start creating my own VSCode theme.
+
+### Day 7: September 21, 2020
+
+**Today's Progress:** I finished the "Todo Manager" app using ReactJS and Tailwind CSS.
+
+**Link(s) to work:** [Todo Manager](https://github.com/angel-codes/todo-manager)
+
+### Day 7: September 21, 2020
+
+**Today's Progress:** I start my "Contact Manager" App using ReactJS, TailwindCSS and Local Storage.
+
+**Link(s) to work:** [Contact Manager](https://github.com/angel-codes/contact-manager)
