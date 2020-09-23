@@ -98,3 +98,11 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** I start my "Contact Manager" App using ReactJS, TailwindCSS and Local Storage.
 
 **Link(s) to work:** [Contact Manager](https://github.com/angel-codes/contact-manager)
+
+### Day 8: September 22, 2020
+
+**Today's Progress:** I finished my **Contact Manager App** using ReactJS, Tailwind CSS, Local Storage and Hooks.
+
+**Link(s) to work:** 
+- [Contact Manager Code](https://github.com/angel-codes/contact-manager)
+- [Contact Manager Site](https://contact-manager-pi.vercel.app/)
