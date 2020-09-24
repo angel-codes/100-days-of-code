@@ -106,3 +106,9 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Link(s) to work:** 
 - [Contact Manager Code](https://github.com/angel-codes/contact-manager)
 - [Contact Manager Site](https://contact-manager-pi.vercel.app/)
+
+### Day 9: September 23, 2020
+
+**Today's Progress:** I started redesigning my portfolio using Tailwind CSS. After this i'll begin to integrate it with Gatsby.
+
+**Thoughts:** I really want to spend time on my portfolio to make it look pretty good, I'm also going to start looking for ideas for projects that I can add to my portfolio.
