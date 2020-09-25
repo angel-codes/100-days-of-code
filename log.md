@@ -112,3 +112,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** I started redesigning my portfolio using Tailwind CSS. After this i'll begin to integrate it with Gatsby.
 
 **Thoughts:** I really want to spend time on my portfolio to make it look pretty good, I'm also going to start looking for ideas for projects that I can add to my portfolio.
+
+### Day 10: September 24, 2020
+
+**Today's Progress:** I started learning more about JavaScript.
