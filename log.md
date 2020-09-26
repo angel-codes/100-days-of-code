@@ -116,3 +116,13 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 ### Day 10: September 24, 2020
 
 **Today's Progress:** I started learning more about JavaScript.
+
+### Day 11: September 25, 2020
+
+**Today's Progress:** I finished the Drinks Recipe Finder App using ReactJS, Tailwind CSS, Context.
+
+**Thoughts:** I think I'm ready to go for a little more complicated challenges. possibly start developing a full stack application.
+
+**Link(s) to work:** 
+- [Drinks Recipe Finder Code](https://github.com/angel-codes/drink-finder)
+- [Drinks Recipe Finder Site](https://drink-recipes-finder.vercel.app/)
