@@ -126,3 +126,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Link(s) to work:** 
 - [Drinks Recipe Finder Code](https://github.com/angel-codes/drink-finder)
 - [Drinks Recipe Finder Site](https://drink-recipes-finder.vercel.app/)
+
+### Day 12: September 26, 2020
+
+**Today's Progress:** I finished the basic section of the course of JavaScript by freeCodeCamp.
