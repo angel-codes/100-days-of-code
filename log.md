@@ -130,3 +130,15 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 ### Day 12: September 26, 2020
 
 **Today's Progress:** I finished the basic section of the course of JavaScript by freeCodeCamp.
+
+### Day 13: September 27, 2020
+
+**Today's Progress:** I create a little React App with Dark/Light mode using Tailwind CSS.
+
+**Link(s) to work:** [Dark Mode](https://github.com/angel-codes/tailwindcss-darkmode)
+
+### Day 14: September 28, 2020
+
+**Today's Progress:** I create a Tailwind CSS Starter for HTML.
+
+**Link(s) to work:** [Tailwind CSS Starter](https://github.com/angel-codes/tailwindcss-starter)
