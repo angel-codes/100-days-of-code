@@ -146,3 +146,17 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 ### Day 14: September 28, 2020
 
 **Today's Progress:** I start learning about testing in JavaScript and ReactJS!
+
+### Day: 15: September 29, 2020
+
+**Today's Progress:** I started learning about drag and drop in React JS, and then I will create a little project. I am preparing to carry out my full stack project (MERN).
+
+### Day: 15: September 29, 2020
+
+**Today's Progress:** I finished my little task manager using ReactJS, Tailwind CSS, and react-beautiful-dnd for Drag and Drop.
+
+**Thoughts:** I had some difficulties, but everything is fine now. There is little left to start my full stack project
+
+**Link(s) to work:**
+- [Task Manager Code](https://github.com/angel-codes/task-manager)
+- [Task Manager Preview](https://task-manager-tau.vercel.app/)
