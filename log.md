@@ -142,3 +142,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** I create a Tailwind CSS Starter for HTML.
 
 **Link(s) to work:** [Tailwind CSS Starter](https://github.com/angel-codes/tailwindcss-starter)
+
+### Day 14: September 28, 2020
+
+**Today's Progress:** I start learning about testing in JavaScript and ReactJS!
