@@ -147,11 +147,11 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Today's Progress:** I start learning about testing in JavaScript and ReactJS!
 
-### Day: 15: September 29, 2020
+### Day 15: September 29, 2020
 
 **Today's Progress:** I started learning about drag and drop in React JS, and then I will create a little project. I am preparing to carry out my full stack project (MERN).
 
-### Day: 15: September 29, 2020
+### Day 15: September 29, 2020
 
 **Today's Progress:** I finished my little task manager using ReactJS, Tailwind CSS, and react-beautiful-dnd for Drag and Drop.
 
@@ -160,3 +160,19 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Link(s) to work:**
 - [Task Manager Code](https://github.com/angel-codes/task-manager)
 - [Task Manager Preview](https://task-manager-tau.vercel.app/)
+
+### Day 16: September 30, 2020
+
+**Today's Progress:** I started the Jobs Listing Challenge of @frontendmentor
+
+### Day 17: October 1, 2020
+
+**Today's Progress:** I finished the Job Listings challenge of @frontendmentor using ReactJS and Tailwind CSS.
+
+**Link(s) to work:**
+- [Job Listings Code](https://github.com/angel-codes/job-listings)
+- [Job Listings Site](https://job-listings-one.vercel.app/)
+
+### Day 17: October 1, 2020
+
+**Today's Progress:** I keep improving the design of my site to start migrating it to gatsby.
