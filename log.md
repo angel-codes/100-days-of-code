@@ -173,6 +173,12 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 - [Job Listings Code](https://github.com/angel-codes/job-listings)
 - [Job Listings Site](https://job-listings-one.vercel.app/)
 
-### Day 17: October 1, 2020
+### Day 18: October 2, 2020
 
 **Today's Progress:** I keep improving the design of my site to start migrating it to gatsby.
+
+### Day 19: October 3, 2020
+
+**Today's Progress:** I still working on my portfolio, in gonna finish the basic structure and then I'll gonna add DatoCMS for the dynamic content.
+
+**Thoughts:** I'm thinking about adding the Dark/Light mode to my website.
