@@ -182,3 +182,19 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** I still working on my portfolio, in gonna finish the basic structure and then I'll gonna add DatoCMS for the dynamic content.
 
 **Thoughts:** I'm thinking about adding the Dark/Light mode to my website.
+
+### Day 20: October 4, 2020
+
+**Today's Progress:** Continuing with the ES6 section of @freeCodeCamp JavaScript course.
+
+### Day 21: October 5, 2020
+
+**Today's Progress:** I still working on my site, today I change some colors and I added Dark/Light mode.
+
+### Day 22: October 6, 2020
+
+**Today's Progress:** I finished the ES6 section of @freeCodeCamp JavaScript Course.
+
+### Day 23: October 7, 2020
+
+**Today's Progress:** I start learning about Regex in JavaScript
