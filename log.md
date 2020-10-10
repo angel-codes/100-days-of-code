@@ -198,3 +198,15 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 ### Day 23: October 7, 2020
 
 **Today's Progress:** I start learning about Regex in JavaScript
+
+### Day 24: October 8, 2020
+
+**Today's Progress:** I still working in my site, i change some colors and improve the tailwind class organization in jsx
+
+### Day 25: October 9, 2020
+ 
+**Today's Progress:** I keep learning about regular expressions on @freecodecamp course
+
+### Day 26: October 10, 2020
+
+**Today's Progress:** I finished the regex section of @freecodecamp course
