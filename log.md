@@ -210,3 +210,17 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 ### Day 26: October 10, 2020
 
 **Today's Progress:** I finished the regex section of @freecodecamp course
+
+### Day 27: October 11, 2020
+
+**Today's Progress:** I finished the Debugging section of @freeCodeCamp JavaScript Course and I started the Basic Data Structures section!
+
+### Day 28: October 12, 2020
+
+**Today's Progress:** I finished the "Rock, Scissors and Paper" Challenge of @frontendmentor using Tailwind CSS and take advantage of this challenge to learn @sveltejs
+
+**Thoughts:** I really enjoy to use svelte, maybe I gonna use it in more projects
+
+**Link(s) to work:**
+[Rock Paper Scissors Game Preview](https://rock-paper-scissors-game-roan.vercel.app/)
+[Rock Paper Scissors Game Code](https://github.com/angel-codes/rock-paper-scissors-game)
