@@ -224,3 +224,16 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Link(s) to work:**
 [Rock Paper Scissors Game Preview](https://rock-paper-scissors-game-roan.vercel.app/)
 [Rock Paper Scissors Game Code](https://github.com/angel-codes/rock-paper-scissors-game)
+
+### Day 29: October 13, 2020
+
+**Today's Progress:** I start building a front-end netflix clone using React.
+
+### Day 30: October 14, 2020
+
+**Today's Progress:** I still working in my netflix clone app.
+
+### Day 31: October 15, 2020
+
+**Today's Progress:** I created a create-react-app template with tailwindcss
+**Link(s) to work:** [cra-template-tailwindcss-starter](https://www.npmjs.com/package/cra-template-tailwindcss-starter)
