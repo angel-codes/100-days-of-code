@@ -237,3 +237,22 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Today's Progress:** I created a create-react-app template with tailwindcss
 **Link(s) to work:** [cra-template-tailwindcss-starter](https://www.npmjs.com/package/cra-template-tailwindcss-starter)
+
+### Day 32: October 16, 2020
+
+**Today's Progress:** I just started to create a notes manager app in Reactjs
+
+### Day 33: October 17, 2020
+
+**Today's Progress:** I still working in the notes manager app
+
+### Day 34: October 18, 2020
+
+**Today's Progress:** I've been practicing some things with framer-motion
+
+### Day 35: October 19, 2020
+
+**Today's Progress:** I finished my "notes manager" in ReactJS using tailwindcss, framer-motion, react-markdown.
+
+**Link(s) to work:** [Notes Manager Code](https://github.com/angel-codes/notes-manager)
+
