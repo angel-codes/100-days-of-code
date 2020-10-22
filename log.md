@@ -256,3 +256,11 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Link(s) to work:** [Notes Manager Code](https://github.com/angel-codes/notes-manager)
 
+### Day 36: October 20, 2020
+
+**Today's Progress:** Today I was working on the Node Sender application server. A project that I am developing which is part of the React course of @JuanDevWP
+
+### Day 37: October 21, 2020
+
+**Today's Progress:** I finished the Node Sender back-end using ExpressJS/Mongoose/Argon2/JWT.
+
