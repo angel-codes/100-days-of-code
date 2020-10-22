@@ -264,3 +264,6 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Today's Progress:** I finished the Node Sender back-end using ExpressJS/Mongoose/Argon2/JWT.
 
+### Day 38: October 22, 2020
+
+***Today's Progress:** Today I was working on the client-side of my Node Sender Application using NextJS and Tailwind CSS.
