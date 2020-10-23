@@ -266,4 +266,12 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 ### Day 38: October 22, 2020
 
-***Today's Progress:** Today I was working on the client-side of my Node Sender Application using NextJS and Tailwind CSS.
+**Today's Progress:** Today I was working on the client-side of my Node Sender Application using NextJS and Tailwind CSS.
+
+### Day 38: October 22, 2020
+
+**Today's Progress:** The day is not over yet, so I decided to continue working on my portfolio.
+
+Fire: I removed the Dark theme for the moment, I want to only focus on light mode.
+Sparkles: I added a 404 design page and "working on" component  to the web site
+
