@@ -275,3 +275,18 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 Fire: I removed the Dark theme for the moment, I want to only focus on light mode.
 Sparkles: I added a 404 design page and "working on" component  to the web site
 
+### Day 39: October 23, 2020
+
+**Today's Progress:** I still working on the Node Sender app, today I started to connect the backend with the frontend
+
+### Day 40: October 24, 2020
+
+**Today's Progress:** I've been doing some @codewars and @LeetCode challenges.
+
+### Day 41: October 25, 2020
+
+**Today's Progress:** I Made some changes to my site, and I add a custom scrollbar
+
+### Day 42: October 26, 2020
+
+**Today's Progress:** Today I made some changes in the Navbar of my site, after a little problem with commits and branches I started to review some Git concepts with the help of https://learngitbranching.js.org/
