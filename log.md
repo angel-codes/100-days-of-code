@@ -290,3 +290,11 @@ Sparkles: I added a 404 design page and "working on" component  to the web site
 ### Day 42: October 26, 2020
 
 **Today's Progress:** Today I made some changes in the Navbar of my site, after a little problem with commits and branches I started to review some Git concepts with the help of https://learngitbranching.js.org/
+
+### Day 43: October 27, 2020
+
+**Today's Progress:** Today I spent time testing different designs for my site. I also completed some lessons on @freeCodeCamp
+
+### Day 44: October 28, 2020
+
+**Today's Progress:** Today I continued working with the project "Node Sender" part of the React.js course that I am taking.
