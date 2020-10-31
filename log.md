@@ -298,3 +298,11 @@ Sparkles: I added a 404 design page and "working on" component  to the web site
 ### Day 44: October 28, 2020
 
 **Today's Progress:** Today I continued working with the project "Node Sender" part of the React.js course that I am taking.
+
+### Day 45: October 29, 2020
+
+**Today's Progress:** Today I working with the drop-zone of the Node Sender Client project and I take some freecodecamp lessons
+
+### Day 46: October 30, 2020
+
+**Today's Progress:** I'm still working on the Node Sender project, the drop-zone functionality to upload files to the backend is almost finished
