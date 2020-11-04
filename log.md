@@ -306,3 +306,25 @@ Sparkles: I added a 404 design page and "working on" component  to the web site
 ### Day 46: October 30, 2020
 
 **Today's Progress:** I'm still working on the Node Sender project, the drop-zone functionality to upload files to the backend is almost finished
+
+### Day 47: October 31, 2020
+
+**Today's Progress:** Today I spent time customizing my "Windows Terminal" to make it look better. I also continued working with the Node Sender project
+
+### Day 48: November 1, 2020
+
+**Today's Progress:** Today I added the functionality to be able to generate the links in the Node Sender project
+
+### Day 49: November 2, 2020
+
+**Today's Progress:** Today I was working on the Node Sender project, adding the option to download the files that you upload. I almost finish the project.
+
+### Day 50: November 3, 2020
+
+**Today's Progress:** I added the options to add a password and download number to the links, just like I put the password validation. I finally finished the project.
+
+**Thoughts:** Today is a great day, I managed to complete half the way of this challenge, and ready to continue with it.
+
+**Link(s) to work:**
+[Node Sender Client - Code](https://github.com/angel-codes/nodesender-client)
+[Node Sender Server - Code](https://github.com/angel-codes/nodesender-server)
