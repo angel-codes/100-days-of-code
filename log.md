@@ -1,6 +1,7 @@
 # #100DaysOfCode Log - Round 1 - Angel Martinez
 
 The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
+
 <!--  Example
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -9,7 +10,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com) 
+**Link to work:** [Calculator App](http://www.example.com)
 -->
 
 ### Day 0: September 14, 2020
@@ -24,7 +25,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Thoughts:** I'm very happy to finish my first project after the challenge and I still love all the things I can do with Tailwind CSS. I'm not good at thinking nice designs but with Tailwind CSS I can do things that look decently good.
 
-**Link(s) to work:** [Weather App](https://codepen.io/angel-codes/pen/PoNaXJO) 
+**Link(s) to work:** [Weather App](https://codepen.io/angel-codes/pen/PoNaXJO)
 
 ### Day 1: September 15, 2020
 
@@ -33,7 +34,6 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Thoughts:** I still have problems thinking about the desing of my apps or projects.
 
 **Link(s) to work:** [Password Generator App](https://codepen.io/angel-codes/pen/dyMVPJb)
-
 
 ### Day 2: September 16, 2020
 
@@ -49,7 +49,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Thoughts:** I really love Tailwind CSS.
 
-**Link(s) to work:** 
+**Link(s) to work:**
+
 - [Bienes Raices Site](https://bienes-raices-site-template.netlify.app/)
 - [Bienes Raices Code](https://github.com/angel-codes/bienes-raices-template)
 
@@ -64,6 +65,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** I finished the "Insure landing page" challenge of @frontendmentor using Tailwind CSS and JavaScript.
 
 **Link(s) to work:**
+
 - [Insure Landing Page Site](https://insure-landing-page-rust.vercel.app/)
 - [Insure Landing Page Code](https://github.com/angel-codes/insure-landing-page)
 
@@ -80,6 +82,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** I finished the "Single Price Grid Component" challenge of @frontendmentor using Tailwind CSS.
 
 **Link(s) to work:**
+
 - [Single Price Grid Component Site](https://single-price-grid-component-fr.vercel.app/)
 - [Single Price Grid Component Code](https://github.com/angel-codes/single-price-grid-component)
 
@@ -103,7 +106,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Today's Progress:** I finished my **Contact Manager App** using ReactJS, Tailwind CSS, Local Storage and Hooks.
 
-**Link(s) to work:** 
+**Link(s) to work:**
+
 - [Contact Manager Code](https://github.com/angel-codes/contact-manager)
 - [Contact Manager Site](https://contact-manager-pi.vercel.app/)
 
@@ -123,7 +127,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 
 **Thoughts:** I think I'm ready to go for a little more complicated challenges. possibly start developing a full stack application.
 
-**Link(s) to work:** 
+**Link(s) to work:**
+
 - [Drinks Recipe Finder Code](https://github.com/angel-codes/drink-finder)
 - [Drinks Recipe Finder Site](https://drink-recipes-finder.vercel.app/)
 
@@ -158,6 +163,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Thoughts:** I had some difficulties, but everything is fine now. There is little left to start my full stack project
 
 **Link(s) to work:**
+
 - [Task Manager Code](https://github.com/angel-codes/task-manager)
 - [Task Manager Preview](https://task-manager-tau.vercel.app/)
 
@@ -170,6 +176,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** I finished the Job Listings challenge of @frontendmentor using ReactJS and Tailwind CSS.
 
 **Link(s) to work:**
+
 - [Job Listings Code](https://github.com/angel-codes/job-listings)
 - [Job Listings Site](https://job-listings-one.vercel.app/)
 
@@ -204,7 +211,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** I still working in my site, i change some colors and improve the tailwind class organization in jsx
 
 ### Day 25: October 9, 2020
- 
+
 **Today's Progress:** I keep learning about regular expressions on @freecodecamp course
 
 ### Day 26: October 10, 2020
@@ -273,7 +280,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Monday, 2020.
 **Today's Progress:** The day is not over yet, so I decided to continue working on my portfolio.
 
 Fire: I removed the Dark theme for the moment, I want to only focus on light mode.
-Sparkles: I added a 404 design page and "working on" component  to the web site
+Sparkles: I added a 404 design page and "working on" component to the web site
 
 ### Day 39: October 23, 2020
 
@@ -328,3 +335,7 @@ Sparkles: I added a 404 design page and "working on" component  to the web site
 **Link(s) to work:**
 [Node Sender Client - Code](https://github.com/angel-codes/nodesender-client)
 [Node Sender Server - Code](https://github.com/angel-codes/nodesender-server)
+
+### Day 51: November 4, 2020
+
+**Today's Progress:** Today I write my first blog post in @hashnode about to how to use Tailwind CSS with CSS-IN-JS on a ReactJS project. I also started taking the Advanced CSS course
