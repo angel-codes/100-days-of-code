@@ -339,3 +339,7 @@ Sparkles: I added a 404 design page and "working on" component to the web site
 ### Day 51: November 4, 2020
 
 **Today's Progress:** Today I write my first blog post in @hashnode about to how to use Tailwind CSS with CSS-IN-JS on a ReactJS project. I also started taking the Advanced CSS course
+
+### Day 52: November 5, 2020
+
+**Today's Progress:** Today I was working on the Natours Webpage, a project of the course of Advanced CSS and SASS that I'm taking. Also, I completed one assignment of the CS50 course, and I started learning about C
