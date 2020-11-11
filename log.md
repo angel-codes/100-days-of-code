@@ -343,3 +343,23 @@ Sparkles: I added a 404 design page and "working on" component to the web site
 ### Day 52: November 5, 2020
 
 **Today's Progress:** Today I was working on the Natours Webpage, a project of the course of Advanced CSS and SASS that I'm taking. Also, I completed one assignment of the CS50 course, and I started learning about C
+
+### Day 53: November 6, 2020
+
+**Today's Progress:** I was finished the "Problem Set 1" of the CS50 course!
+
+### Day 54: November 7, 2020
+
+**Today's Progress:** I started learning about Redux
+
+### Day 55: November 8, 2020
+
+**Today's Progress:** I've been learning how to use redux in a react project
+
+### Day 56: November 9, 2020
+
+**Today's Progress:** I still learning about react-redux, redux, and redux-thunk. Maybe I gonna learn about Redux Toolkit.
+
+### Day 57: November 10, 2020
+
+**Today's Progress:** I still working with redux, I created my first CRUD using Redux
