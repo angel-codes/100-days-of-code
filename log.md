@@ -363,3 +363,34 @@ Sparkles: I added a 404 design page and "working on" component to the web site
 ### Day 57: November 10, 2020
 
 **Today's Progress:** I still working with redux, I created my first CRUD using Redux
+
+### Day 58: November 11, 2020
+
+**Today's Progress:** Today I spent time-solving some Codewars challenges
+
+### Day 59: November 12, 2020
+
+**Today's Progress:**
+
+- I learned the basics of Jest for Testing in JavaScript
+- I learned the basics of Enzyme for Testing in React
+
+### Day 60: November 13, 2020
+
+**Today's Progress:** Gif Finder App finished
+
+### Day 61: November 14, 2020
+
+**Today's Progress:** I started doing my first tests in this app
+
+### Day 62: November 15, 2020
+
+**Today's Progress:** It's not exactly about code, however, today I spent most of the day cleaning up my computer and organizing all of its components. I am also thinking of changing OS but I can't decide which one
+
+### Day 63: November 16, 2020
+
+**Today's Progress:** I spent some time learning about the use of the terminal in Linux, and I was customizing my O.S
+
+### Day 64: November 17, 2020
+
+**Today's Progress:** Today I finished the Gif Finder app, likewise, it is my first application using testing in React
