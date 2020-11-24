@@ -394,3 +394,27 @@ Sparkles: I added a 404 design page and "working on" component to the web site
 ### Day 64: November 17, 2020
 
 **Today's Progress:** Today I finished the Gif Finder app, likewise, it is my first application using testing in React
+
+### Day 65: November 18, 2020
+
+**Today's Progress:** I spent time updating my two cra-templates available in npm
+
+### Day 66: November 19, 2020
+
+**Today's Progress:** I learned more about the use of the useState hook
+
+### Day 67: November 20, 2020
+
+**Today's Progress:** I learned more about the use of the useEffect hook
+
+### Day 68: November 21, 2020
+
+**Today's Progress:** I learned more about the use of the useLayoutEffect hook and custom hooks
+
+### Day 69: November 22, 2020
+
+**Today's Progress:** I learned more about useRef and useMemo hooks
+
+### Day 70: November 23, 2020
+
+**Today's Progress:** I spend time updating my cra-template for tailwindcss
