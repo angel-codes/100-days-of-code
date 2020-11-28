@@ -418,3 +418,19 @@ Sparkles: I added a 404 design page and "working on" component to the web site
 ### Day 70: November 23, 2020
 
 **Today's Progress:** I spend time updating my cra-template for tailwindcss
+
+### Day 71: November 24, 2020
+
+**Today's Progress:** Working on a project called "Halo Characters" made in ReactJS.
+
+### Day 72: November 25, 2020
+
+**Today's Progress:** I continue working on the "Halo characters" project
+
+### Day 73: November 26, 2020
+
+**Today's Progress:** I've been going over some concepts on git and GitHub. I want to contribute to the open source community.
+
+### Day 74: November 27, 2020
+
+**Today's Progress:** I've been learning more about routing protection in React JS!
