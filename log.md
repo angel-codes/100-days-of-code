@@ -434,3 +434,7 @@ Sparkles: I added a 404 design page and "working on" component to the web site
 ### Day 74: November 27, 2020
 
 **Today's Progress:** I've been learning more about routing protection in React JS!
+
+### Day 75: November 28, 2020
+
+**Today's Progress:** I've been working on my Github README. I did a little project to help someone
