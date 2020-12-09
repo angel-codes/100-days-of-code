@@ -438,3 +438,31 @@ Sparkles: I added a 404 design page and "working on" component to the web site
 ### Day 75: November 28, 2020
 
 **Today's Progress:** I've been working on my Github README. I did a little project to help someone
+
+### Day 76: November 30, 2020
+
+**Today's Progress:** I started the Todo App challenge of Frontend mentor
+
+### Day 77: December 1, 2020
+
+**Today's Progress:** I was working on the design of the "Todo App" challenge
+
+### Day 78: December 2, 2020
+
+**Today's Progress:** I was modifying some things to activate the light / dark mode in the "Todo App" challenge
+
+### Day 79: December 3, 2020
+
+**Today's Progress:** These last days I had not been able to do much because I am somewhat ill and decided to cancel one day. However finish the @frontendmentor challenge.
+
+### Day 80: December 4, 2020
+
+**Today's Progress:** I started working on my project called "Journal App" built-in React, Redux, Sass, and Firebase
+
+### Day 81: December 7, 2020
+
+**Today's Progress:** I was working on the design of the login and registration of the project "Journal App"
+
+### Day 82: December 7, 2020
+
+**Today's Progress:** Working on the "Main" page of the Journal App project.
