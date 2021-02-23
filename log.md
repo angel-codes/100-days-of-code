@@ -463,6 +463,70 @@ Sparkles: I added a 404 design page and "working on" component to the web site
 
 **Today's Progress:** I was working on the design of the login and registration of the project "Journal App"
 
-### Day 82: December 7, 2020
+### Day 82: December 8, 2020
 
 **Today's Progress:** Working on the "Main" page of the Journal App project.
+
+### Day 83: December 9, 2020
+
+**Today's Progress:** Finished some challenge of the #JavaScriptmas
+
+### Day 84: December 10, 2020
+
+**Today's Progress:** I still working on the main page of the project "Journal App"
+
+### Day 85: December 11, 2020
+
+**Today's Progress:** I was working on the challenge of "Intro and Sign Up component" from @frontendmentor
+
+### Day 86: December 12, 2020
+
+**Today's Progress:** I completed the corresponding challenge today from #JavaScriptmas
+
+### Day 87-88: December 13, 2020, December 14, 2020
+
+**Today's Progress:** I continued working with my portfolio
+
+### Day 89-90: December 15, 2020, December 16, 2020
+
+**Today's Progress:**
+
+- Journal App design finished
+- White heavy check markI completed some #JavaScriptmas challenges
+
+### Day 91-93: December 18, 2020, December 19, 2020
+
+**Today's Progress:** I started working with the redux part of the Journal App project. Also, I decided to start the design of my project called "MERN Task" a full-stack project
+
+### Day 94: December 20, 2020
+
+**Today's Progress:** This is the progress of the design of the "MERN Task" Project.
+
+### Day 95: December 21, 2020
+
+**Today's Progress:** Today I start working with the back-end of the MERNTask project.
+
+### Day 96: December 22, 2020
+
+**Today's Progress:** I have been working with the backend of the MERNTask project. I'm almost done, although I had a problem with Swagger as it is not generating the documentation properly.
+
+### Day 97: December 23, 2020
+
+**Today's Progress:** Today I was working with route protection in the MERNTask project. And starting to consume the API data.
+
+### Day 98-99: December 27, 2020, December 28, 2020
+
+**Today's Progress:** One more day to finish the challenge! I'm still working on the MERNTask project
+
+- List all projects
+- Conditional Screen
+- Set active Project
+- Show information about the project
+- Delete projects
+- Sign out function
+
+### Day 100: December 29, 2020
+
+**Today's Progress:** I finally got to this day, it has been a long period, but it has been worth it.
+
+Today I was working on the MERNTask project continuing with the "tasks" section. I also started doing a project in collaboration with a friend.
